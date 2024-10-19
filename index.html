@@ -4,51 +4,74 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Dashboard</title>
+    <title>Dashboard - Second Harvest Northland Grants Management System</title>
     <link rel="stylesheet" href="style.css">
-
 </head>
 <body>
 
     <header>
-        <h1>Grants Dashboard</h1>
+        <h1>Dashboard</h1>
         <nav>
             <ul>
-                <li><a href="index.html">Dashboard</a></li>
-                <li><a href="grant-application.html">Grant Application</a></li>
-                <li><a href="grant-status.html">Grant Status</a></li>
-                <li><a href="reports.html">Reports</a></li>
+                <li><a href="grant-applications.html">Grant Applications</a></li>
+                <li><a href="grant-review.html">Grant Review</a></li>
+                <li><a href="grant-management.html">Grant Management</a></li>
+                <li><a href="financial-management.html">Financial Management</a></li>
+                <li><a href="reporting-analytics.html">Reporting & Analytics</a></li>
+                <li><a href="user-management.html">User Management</a></li>
+                <li><a href="notifications-alerts.html">Notifications & Alerts</a></li>
+                <li><a href="system-settings.html">System Settings</a></li>
             </ul>
         </nav>
     </header>
 
     <main>
-        <section id="summary">
+        <section id="grant-summary">
             <h2>Grant Summary</h2>
-            <ul>
-                <li>Grant 1: Amount $50,000 - Status: Active</li>
-                <li>Grant 2: Amount $30,000 - Status: Pending</li>
-            </ul>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Grant Title</th>
+                        <th>Amount</th>
+                        <th>Status</th>
+                        <th>Upcoming Deadlines</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Community Health Initiative</td>
+                        <td>$50,000</td>
+                        <td>Active</td>
+                        <td>2024-11-15</td>
+                    </tr>
+                    <!-- Additional rows as needed -->
+                </tbody>
+            </table>
         </section>
 
-        <section id="key-metrics">
-            <h2>Key Metrics</h2>
-            <ul>
-                <li>Active Grants: 3</li>
-                <li>Total Funds Allocated: $200,000</li>
-                <li>Total Funds Spent: $120,000</li>
-                <li>Upcoming Deadlines: 2</li>
-            </ul>
+        <section id="key-indicators">
+            <h2>Key Tracking Indicators</h2>
+            <p><strong>Active Grants:</strong> 5</p>
+            <p><strong>Total Funds Allocated:</strong> $500,000</p>
+            <p><strong>Total Funds Spent:</strong> $300,000</p>
+            <p><strong>Upcoming Deadlines:</strong> 3</p>
         </section>
 
         <section id="notifications">
-            <h2>Notifications</h2>
-            <p>No upcoming deadlines this week.</p>
+            <h2>Notifications/Alerts</h2>
+            <p>You have 2 upcoming deadlines and 1 grant pending review.</p>
+        </section>
+
+        <section id="graphs">
+            <h2>Fund Distribution & Spending Trends</h2>
+            <!-- Placeholder for charts -->
+            <div class="chart" id="fund-distribution-chart"></div>
+            <div class="chart" id="spending-trends-chart"></div>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2024 Second Harvest Northland Grants Management System</p>
+        <p>&copy; 2024 Second Harvest Northland</p>
     </footer>
 
 </body>

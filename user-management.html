@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>User Management - Second Harvest Northland Grants Management System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>User Management</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Dashboard</a></li>
+                <li><a href="database-management.html">Database Management</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="user-list">
+            <h2>Registered Users</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Username</th>
+                        <th>Email</th>
+                        <th>Role</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>admin_user</td>
+                        <td>admin@example.com</td>
+                        <td>Admin</td>
+                        <td>
+                            <a href="#">Edit</a> | <a href="#">Delete</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>reviewer_user</td>
+                        <td>reviewer@example.com</td>
+                        <td>Reviewer</td>
+                        <td>
+                            <a href="#">Edit</a> | <a href="#">Delete</a>
+                        </td>
+                    </tr>
+                    <!-- More users -->
+                </tbody>
+            </table>
+        </section>
+
+        <section id="add-user">
+            <h2>Add New User</h2>
+            <form>
+                <div class="form-group">
+                    <label for="username">Username:</label>
+                    <input type="text" id="username" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="role">Role:</label>
+                    <select id="role" required>
+                        <option value="admin">Admin</option>
+                        <option value="reviewer">Reviewer</option>
+                        <option value="applicant">Applicant</option>
+                        <option value="finance">Finance</option>
+                    </select>
+                </div>
+                <button type="submit">Create User</button>
+            </form>
+        </section>
+
+        <section id="audit-trail">
+            <h2>Audit Trail</h2>
+            <ul>
+                <li><strong>2024-10-01:</strong> admin_user changed role of reviewer_user to Applicant</li>
+                <li><strong>2024-09-15:</strong> admin_user created new user finance_user</li>
+                <!-- More logs -->
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Second Harvest Northland</p>
+    </footer>
+
+</body>
+</html>

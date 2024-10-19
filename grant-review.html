@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Grant Review - Second Harvest Northland Grants Management System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Grant Review</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Dashboard</a></li>
+                <li><a href="grant-applications.html">Grant Applications</a></li>
+                <li><a href="grant-management.html">Grant Management</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="submitted-applications">
+            <h2>Submitted Applications</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Application Title</th>
+                        <th>Applicant</th>
+                        <th>Status</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Community Health Initiative</td>
+                        <td>John Doe</td>
+                        <td>Under Review</td>
+                        <td><a href="#">View Details</a></td>
+                    </tr>
+                    <!-- Additional rows as needed -->
+                </tbody>
+            </table>
+        </section>
+
+        <section id="review-details">
+            <h2>Review Details</h2>
+            <form>
+                <div class="form-group">
+                    <label for="notes">Reviewer’s Notes:</label>
+                    <textarea id="notes" rows="4"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="feasibility">Feasibility:</label>
+                    <select id="feasibility">
+                        <option value="1">1</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="impact">Impact:</label>
+                    <select id="impact">
+                        <option value="1">1</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="budget">Budget:</label>
+                    <select id="budget">
+                        <option value="1">1</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+                <button type="submit">Approve</button>
+                <button type="button">Request Revisions</button>
+                <button type="button">Reject</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Second Harvest Northland</p>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Grant Applications - Second Harvest Northland Grants Management System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Grant Applications</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Dashboard</a></li>
+                <li><a href="grant-review.html">Grant Review</a></li>
+                <li><a href="grant-management.html">Grant Management</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="submit-application">
+            <h2>Submit a New Application</h2>
+            <form>
+                <div class="form-group">
+                    <label for="title">Grant Title:</label>
+                    <input type="text" id="title" required>
+                </div>
+                <div class="form-group">
+                    <label for="applicant">Applicant Name:</label>
+                    <input type="text" id="applicant" required>
+                </div>
+                <div class="form-group">
+                    <label for="organization">Organization:</label>
+                    <input type="text" id="organization" required>
+                </div>
+                <div class="form-group">
+                    <label for="amount">Funding Amount Requested:</label>
+                    <input type="number" id="amount" required>
+                </div>
+                <div class="form-group">
+                    <label for="description">Project Description:</label>
+                    <textarea id="description" rows="5" required></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="timeline">Project Timeline:</label>
+                    <input type="date" id="timeline" required>
+                </div>
+                <div class="form-group">
+                    <label for="documents">Attach Documents:</label>
+                    <input type="file" id="documents" multiple>
+                </div>
+                <button type="submit">Submit Application</button>
+            </form>
+        </section>
+
+        <section id="application-status">
+            <h2>Your Applications</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Application Title</th>
+                        <th>Status</th>
+                        <th>Submitted On</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Community Health Initiative</td>
+                        <td>Under Review</td>
+                        <td>2024-10-01</td>
+                        <td><a href="#">View Details</a></td>
+                    </tr>
+                    <!-- More applications as needed -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Second Harvest Northland</p>
+    </footer>
+
+</body>
+</html>
