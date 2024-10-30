@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gXuKEPeBv7UN90tHICV/Z5xIAxpEFh/nPlcpmJnEcW0=",
+  "Source": "GMS.Api",
+  "BasePath": "_content/GMS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
