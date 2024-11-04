@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vince\\Source\\Repos\\GMS\\GMS.Api\\GMS.Api.csproj": {}
+    "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\GMS.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vince\\Source\\Repos\\GMS\\GMS.Api\\GMS.Api.csproj": {
+    "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\GMS.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vince\\Source\\Repos\\GMS\\GMS.Api\\GMS.Api.csproj",
+        "projectUniqueName": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\GMS.Api.csproj",
         "projectName": "GMS.Api",
-        "projectPath": "C:\\Users\\vince\\Source\\Repos\\GMS\\GMS.Api\\GMS.Api.csproj",
+        "projectPath": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\GMS.Api.csproj",
         "packagesPath": "C:\\Users\\vince\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vince\\Source\\Repos\\GMS\\GMS.Api\\obj\\",
+        "outputPath": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vince\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.21.0, )"

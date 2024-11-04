@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GMS.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e592bf938b964439926b12f2e6d70d2d57453015")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36f6c6df54b5642708fd4edaaa20a74ac7ad3d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("GMS.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GMS.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

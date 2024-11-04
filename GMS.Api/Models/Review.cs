@@ -1,8 +1,10 @@
+namespace GMS.Api.Models;
+
 public class Review
 {
     public int Id { get; set; }
     public int GrantApplicationId { get; set; }
-    public GrantApplication GrantApplication { get; set; }
+    public Application GrantApplication { get; set; }
     public int ReviewerId { get; set; }
     public User Reviewer { get; set; }
     public string Notes { get; set; }

@@ -1,3 +1,5 @@
+
+namespace GMS.Api.Models;
 public class Notification
 {
     public int Id { get; set; }

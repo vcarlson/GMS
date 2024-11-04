@@ -1,3 +1,5 @@
+namespace GMS.Api.Models;
+
 public class Milestone
 {
     public int Id { get; set; }

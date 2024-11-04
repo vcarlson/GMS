@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vince\\source\\repos\\GMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\models\\grant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\models\\grant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\controllers\\grantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\controllers\\grantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\gms.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\gms.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|c:\\users\\vince\\source\\repos\\gms\\gms.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEFAFF-9A84-4A89-8B3C-AD482A299919}|GMS.Api\\GMS.Api.csproj|solutionrelative:gms.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\AuditLog.cs",
+              "RelativeToolTip": "GMS.Api\\Models\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:05:43.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "GMS.Api\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AgIAAAIAAAAANzMzMzMbwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:41:39.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grant.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Grant.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Models\\Grant.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Grant.cs",
+              "RelativeToolTip": "GMS.Api\\Models\\Grant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:08:10.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Application.cs",
+              "RelativeToolTip": "GMS.Api\\Models\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:31:58.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Program.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Program.cs",
+              "RelativeToolTip": "GMS.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:40:13.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "GMS.Api\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:43:03.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GMS.Api\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:02:12.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GMS.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GMS.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T02:48:54.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Models\\Document.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Document.cs",
+              "RelativeToolTip": "GMS.Api\\Models\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:08:02.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Transaction.cs",
+              "RelativeToolTip": "GMS.Api\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:09:02.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "GMS.Api\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAA8AAAAACgAAAAAAwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:42:18.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GrantsController.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Controllers\\GrantsController.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Controllers\\GrantsController.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Controllers\\GrantsController.cs",
+              "RelativeToolTip": "GMS.Api\\Controllers\\GrantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:39:29.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GMS.Api.http",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\GMS.Api.http",
+              "RelativeDocumentMoniker": "GMS.Api\\GMS.Api.http",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\GMS.Api.http",
+              "RelativeToolTip": "GMS.Api\\GMS.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-31T02:15:17.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Notification.cs",
+              "RelativeToolTip": "GMS.Api\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:08:34.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Report.cs",
+              "RelativeToolTip": "GMS.Api\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:08:41.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\Review.cs",
+              "RelativeToolTip": "GMS.Api\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:08:50.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Models\\User.cs",
+              "RelativeToolTip": "GMS.Api\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:09:10.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "GMS.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\GMS\\GMS.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "GMS.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:42:40.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

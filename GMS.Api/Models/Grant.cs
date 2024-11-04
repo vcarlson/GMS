@@ -1,8 +1,10 @@
+namespace GMS.Api.Models;
+
 public class Grant
 {
     public int Id { get; set; }
     public int GrantApplicationId { get; set; }
-    public GrantApplication GrantApplication { get; set; }
+    public Application GrantApplication { get; set; }
     public decimal TotalFundsAllocated { get; set; }
     public decimal FundsSpent { get; set; }
     public string Status { get; set; } // On Track, Delayed, Completed

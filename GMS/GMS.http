@@ -1,0 +1,6 @@
+@GMS_HostAddress = http://localhost:5125
+
+GET {{GMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
